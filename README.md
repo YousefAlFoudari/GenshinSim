@@ -6,7 +6,6 @@ Genshin Impact is a free-to-play gacha game developed by miHoYo. From Wikipedia:
 In Genshin Impact, this gacha system is known as "wishing". The player pays a certain amount of virtual currency (Primogems) to obtain a certain amount of random items until the player gets that they want. My simulator aims to accurately replicate that system and to provide the user comprehensive statistical feedback. This project is implemented in Python using Jupyter Notebook.
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 How it works:
